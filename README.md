@@ -1,2 +1,1 @@
-# js-algorithms-basics-1
-basics javascript programn and algorithms
+# Data Structures and Algorithms with JavaScript
